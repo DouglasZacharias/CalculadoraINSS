@@ -1,0 +1,9 @@
+C:\wdg - ibm\Problemas\Calculadora\bin\Debug\Calculadora.dll
+C:\wdg - ibm\Problemas\Calculadora\bin\Debug\Calculadora.pdb
+C:\wdg - ibm\Problemas\Calculadora\bin\Debug\INSS.dll
+C:\wdg - ibm\Problemas\Calculadora\bin\Debug\INSS.pdb
+C:\wdg - ibm\Problemas\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache
+C:\wdg - ibm\Problemas\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\wdg - ibm\Problemas\Calculadora\obj\Debug\Calculadora.csproj.CopyComplete
+C:\wdg - ibm\Problemas\Calculadora\obj\Debug\Calculadora.dll
+C:\wdg - ibm\Problemas\Calculadora\obj\Debug\Calculadora.pdb
