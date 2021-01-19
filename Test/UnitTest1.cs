@@ -31,5 +31,13 @@ namespace Test
             Assert.AreEqual(calc.CalcularDesconto(data, 4000M), 440M);
             Assert.AreEqual(calc.CalcularDesconto(data, 5000M), 500M);
         }
+        [TestMethod]
+        [ExpectedException(typeof(Exception),
+            "Não existe tabela cadastrada para a data solicitada.")]
+        public void Teste2013()
+        {
+            DateTime data = Convert.ToDateTime("25/12/2013");
+            calc.CalcularDesconto(data, 800M);
+        }
     }
 }

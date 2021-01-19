@@ -2,3 +2,8 @@
 *.docx
 # Temporary Files
 ~$*.*
+# Folders
+bin/
+obj/
+vs/
+Calculadora/bin/

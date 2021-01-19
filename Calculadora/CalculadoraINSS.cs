@@ -25,7 +25,7 @@ namespace Calculadora
                 if (tabela.ExisteCalculoPeriodo(data))
                     return tabela.CalcularDesconto(salario);
             }
-            return decimal.Zero;
+            throw new Exception("Não existe tabela cadastrada para a data solicitada.");
         }
     }
 }
