@@ -1,6 +1,0 @@
-C:\wdg - ibm\Problemas\INSS\bin\Debug\INSS.dll
-C:\wdg - ibm\Problemas\INSS\bin\Debug\INSS.pdb
-C:\wdg - ibm\Problemas\INSS\obj\Debug\INSS.csprojAssemblyReference.cache
-C:\wdg - ibm\Problemas\INSS\obj\Debug\INSS.csproj.CoreCompileInputs.cache
-C:\wdg - ibm\Problemas\INSS\obj\Debug\INSS.dll
-C:\wdg - ibm\Problemas\INSS\obj\Debug\INSS.pdb
